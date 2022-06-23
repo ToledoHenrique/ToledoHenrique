@@ -7,9 +7,9 @@
 
 - Estudante de Ciências da Computação | IMED 💻✨
 
-- **Gamer//DEVProjetos | GFT ** 🎮🌟
+- Gamer//DEVProjetos | GFT 🎮✨
 
-- Entusiasta de Detalhamento de projetos.. 🔮🧁
+- Entusiasta de Detalhamento de projetos.. 🔮✨
 
 </div>
 

@@ -1,5 +1,5 @@
 <br />
-<img src="https://github.com/ypek/teste-/blob/main/gatinhu.gif" align="right" width="500" alt="gatin"/>
+<img src="https://github.com/ypek/teste-/blob/main/gatinhu.gif" align="right" width="450" alt="gatin"/>
 
 # Oiee, eu sou o Henrique da Costa Toledo 👋🌈
 

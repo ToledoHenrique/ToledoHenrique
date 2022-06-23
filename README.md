@@ -10,18 +10,16 @@
 - Gamer//DEVProjetos | GFT 🎮✨
 
 - Entusiasta de Detalhamento de projetos.. 🔮✨
-
-</div>
-
- ⠀<div align="center" style="display: flex; justify-content: space-between;">
-   <a href="https://open.spotify.com/user/22bk6yu73vlwpvpcovhv6io3a">
-    <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
-  </a>
-
-
+ 
 <div align="center" style="display: flex; justify-content: space-between;">
   <a href="https://www.linkedin.com/in/henrique-toledo-43084b222/">
     <img src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" width="40" height="40" alt="Linkedin.com">
+  <a href="https://mobile.twitter.com/ToledoZupara">
+    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
+    </a>
+  <a href="">
+    <img src="" width="40" height="40" alt="">
+    </a>
   <a href="https://mobile.twitter.com/ToledoZupara">
     <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
     </a>

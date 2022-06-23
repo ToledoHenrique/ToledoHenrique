@@ -20,9 +20,9 @@
 
 
 <div align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://www.twitch.tv/ypek_">
-    <img src="https://imgur.com/rrxPUh0.png" width="40" height="40" alt="Twitch.tv">
-  <a href="https://twitter.com/ypekgamer">
+  <a href="https://www.linkedin.com/in/henrique-toledo-43084b222/">
+    <img src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" width="40" height="40" alt="Linkedin.com">
+  <a href="https://mobile.twitter.com/ToledoZupara">
     <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
     </a>
 </p>    

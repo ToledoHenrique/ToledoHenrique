@@ -1,17 +1,15 @@
 <br />
 <img src="https://github.com/ypek/teste-/blob/main/qzgh1t3e58691.gif" align="left" width="300" alt="gato"/>
 
-# Hi, I'm Daniel "Ypek" Merib 👋
+# Oiee, eu sou o Henrique da Costa Toledo 👋🌈
 
-- pronouns: **he**/**him**
+- Você pode se dirigir a mim por: **ele**/**dele** 🦋✨
 
-- tech hipster 😎
+- Estudante de Ciências da Computação | IMED 💻✨
 
-- Computer Science | IMED 📖
+- **Gamer//DEVProjetos | GFT ** 🎮🌟
 
-- **Opensourcer** 😊
-
-- Information Security Enthusiast.🧑‍🎓
+- Entusiasta de Detalhamento de projetos.. 🔮🧁
 
 </div>
 

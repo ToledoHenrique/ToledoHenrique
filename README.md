@@ -1,4 +1,5 @@
 <br />
+<img src="https://github.com/ypek/teste-/blob/main/gatinhu.gif" align="right" width="500" alt="gatin"/>
 
 # Oiee, eu sou o Henrique da Costa Toledo 👋🌈
 
@@ -9,8 +10,6 @@
 - Gamer//DEVProjetos | GFT 🎮✨
 
 - Entusiasta de Detalhamento de projetos.. 🔮✨
-
-<img src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" align="center" width="300" alt="gatin"/>
  
 <div align="center" style="display: flex; justify-content: space-between;">
   <a href="https://www.linkedin.com/in/henrique-toledo-43084b222/">

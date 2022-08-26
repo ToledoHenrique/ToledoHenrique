@@ -5,7 +5,7 @@
 
 - Você pode se dirigir a mim por: **ele**/**dele** 🦋✨
 
-- Estudante de Ciências da Computação | IMED 💻✨
+- Estudante de Ciências da Computação | ATITUS 💻✨
 
 - Gamer//DEVProjetos | GFT 🎮✨
 

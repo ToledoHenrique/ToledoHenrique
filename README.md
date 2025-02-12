@@ -7,7 +7,7 @@
 
 - Estudante de Ciências da Computação | ATITUS 💻✨
 
-- Gamer//DEVFrontEnd | GFT 🎮✨
+- Gamer//DEVBackEnd | CompassUOL 🎮✨
 
 - Entusiasta de Detalhamento de projetos.. 🔮✨
  

@@ -26,5 +26,5 @@
   <p align="center">
   <a href="https://github.com/ToledoHenrique">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ToledoHenrique&show_icons=true&theme=synthwave"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToledoHenrique&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ToledoHenrique&layout=compact&langs_count=7&theme=synthwave"/>
 </p>

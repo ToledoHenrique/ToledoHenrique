@@ -7,8 +7,6 @@
 
 - Estudante de Ciências da Computação | ATITUS 💻✨
 
-- Gamer//DEVBackEnd | CompassUOL 🎮✨
-
 - Entusiasta de Detalhamento de projetos.. 🔮✨
  
 <div align="center" style="display: flex; justify-content: space-between;">
